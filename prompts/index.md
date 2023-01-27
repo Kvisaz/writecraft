@@ -5,11 +5,12 @@
 
 ## Text synthesis
 
+`Can you create example of dialogue to reveal character and advance the plot in situation '[TWO HEROES IN SITUATION]'"?`
+Example: 'Can you create example of dialogue to reveal character and advance the plot in situation 'Two friends investigate haunted castle"?'
+
 `Use rule "show dont tell" to create [N] examples of [HERO IN SITUATION]`
 
 Example: 'Use rule "show dont tell" to create three examples of morning routine of detective in victorian setting'
-
-
 
 `Create three examples of descriptive language for [HERO IN SITUATION]`
 
